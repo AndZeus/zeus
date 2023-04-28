@@ -6,7 +6,7 @@
 <a href="https://instagram.com/kaan.elald"><img src="https://img.shields.io/badge/@kaan.elald-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
-https://discord.gg/dwwPJwzN5E
+https://discord.gg/american
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/150728683789746176?theme=light&bg=313131&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/150728683789746176) 
 
